@@ -14,6 +14,6 @@
 <h2>:file_folder: Acess to the project</h2>
 
 <p>You can access the project files by clicking <a href="https://github.com/PHDevss/Project-Calculating/">here</a>.</p> 
-<p>And you can preview the project here <a href="https://phdevss.github.io/Project-Calculating/" target="_blank">here</a>.</p> 
+<p>And you can preview the project here <a href="https://phdevss.github.io/Calculating-Project/" target="_blank">here</a>.</p> 
 <h4 align="center"> 
   🚧 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge" /> 🚧
