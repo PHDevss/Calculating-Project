@@ -1,4 +1,4 @@
-<h1 align="center">Project Calculating</h1>
+<h1 align="center">Calculating Project</h1>
 <h2>Project Summary</h2>
 <p>Project development in the course of Curso em Video.</p>
 <p>The project is a app development with JAVASCRIPT, CSS and HTML. You will need to register a list of numbers and then click on finish. The application will return the lowest and highest registered value, the sum and average of the values. </p> 
